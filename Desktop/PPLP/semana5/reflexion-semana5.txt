@@ -1,0 +1,9 @@
+Las APIs permiten que diferentes aplicaciones compartan información de manera rápida y organizada.
+Gracias a ellas, las comunidades pueden enviar reportes, alertas y mensajes a un servidor central.
+Esto ayuda a mantener toda la información ordenada y disponible para muchas personas al mismo tiempo.
+Por ejemplo, una comunidad podría reportar daños en las vías, problemas de seguridad o emergencias.
+Las APIs también facilitan que las aplicaciones móviles y páginas web trabajen conectadas entre sí.
+Además, permiten automatizar procesos y reducir errores al compartir datos.
+Con herramientas como Node.js se pueden crear sistemas accesibles y fáciles de mantener.
+Esto fortalece la comunicación entre ciudadanos y organizaciones comunitarias.
+Finalmente, las APIs ayudan a construir soluciones tecnológicas más colaborativas y eficientes.

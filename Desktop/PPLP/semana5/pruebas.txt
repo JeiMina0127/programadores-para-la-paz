@@ -1,0 +1,8 @@
+Ruta http://localhost:3000:
+Muestra el mensaje “Servidor Activo”.
+
+Ruta http://localhost:3000/saludo:
+Muestra un saludo de bienvenida desde el servidor.
+
+Ruta http://localhost:3000/mensaje/juan:
+Muestra un mensaje personalizado utilizando el nombre enviado en la URL.
