@@ -1,0 +1,37 @@
+Entidad: Reporte
+
+Campos principales:
+
+id
+titulo
+descripcion
+fecha_creacion
+estado
+categoria
+
+Propósito:
+Guardar los reportes o solicitudes realizadas por la comunidad para facilitar el seguimiento de los casos y conocer su estado de atención.
+
+Entidad: Usuario
+
+Campos principales:
+
+id
+nombre_usuario
+rol
+fecha_registro
+
+Propósito:
+Registrar a las personas que participan en la plataforma y controlar los permisos de acceso según su función.
+
+Entidad: Evidencia
+
+Campos principales:
+
+id
+reporte_id
+tipo_evidencia
+fecha_carga
+
+Propósito:
+Almacenar referencias de evidencias asociadas a los reportes para apoyar la revisión y trazabilidad de los procesos comunitarios.
