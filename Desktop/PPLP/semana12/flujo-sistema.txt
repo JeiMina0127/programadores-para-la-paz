@@ -1,0 +1,6 @@
+1. Un ciudadano ingresa a la plataforma y crea una nueva causa, describiendo el problema y el objetivo de la petición.
+2. El sistema registra automáticamente la información de la causa en la base de datos y la deja disponible para consulta.
+3. Otros ciudadanos ingresan a la plataforma y apoyan la causa proporcionando únicamente la información necesaria.
+4. El sistema registra cada apoyo, actualiza el número total de participantes y evita registros duplicados cuando corresponde.
+5. Al alcanzar los apoyos necesarios o cuando el creador lo solicite, la plataforma genera automáticamente un documento PDF con la información de la petición y el listado de apoyos.
+6. El documento puede descargarse, compartirse o presentarse ante las autoridades competentes como evidencia del respaldo ciudadano.
